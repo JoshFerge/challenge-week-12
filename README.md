@@ -4,7 +4,7 @@
 
 ## Challenge 1
 
-
+![screenshot](reddit1.png)
 
 ## Challenge 2
 
